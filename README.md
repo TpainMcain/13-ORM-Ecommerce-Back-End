@@ -14,7 +14,7 @@
 
 ## Installation Instructions
 1. Clone the repository to your local development environment.
-    * ```git clone https://github.com/TpainMcain/12-SQL-Employee-Tracker.git```
+    * ```git clone https://github.com/TpainMcain/13-ORM-Ecommerce-Back-End.git```
 2. Navigate to the ```13-ORM-Ecommerce-Back-End``` folder using the command prompt.
 3. Run ```npm install``` to install all dependencies.
 4. Rename the ```.env.example``` file in the project's root directory to ```.env```
