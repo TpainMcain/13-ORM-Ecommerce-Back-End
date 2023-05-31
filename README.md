@@ -27,7 +27,7 @@
 ## Usage Instructions
 *
 ### Video Walkthrough
-https://drive.google.com/file/d/16FhgwM72js_Hl-b2mINZ3KZbX0i_qk4Q/view
+
 
 ## License
 Permission to use this application is granted under the MIT license.
