@@ -16,7 +16,7 @@
 1. Clone the repository to your local development environment.
     * ```git clone https://github.com/TpainMcain/13-ORM-Ecommerce-Back-End.git```
 2. Navigate to the ```13-ORM-Ecommerce-Back-End``` folder using the command prompt.
-3. Run ```npm install``` to install all dependencies.
+3. Run ```npm i -y``` to install all dependencies.
 4. Rename the ```.env.example``` file in the project's root directory to ```.env```
 5. Open the ```.env``` file and provide the necessary values for the environment variables.
     * Note: The ```.env.example``` file serves as a template for the required environment variables. Replace the placeholder values with the actual values relevant to your MySQL.
