@@ -31,7 +31,7 @@
 *   Follow along with the video walkthrough to GET, POST, PUT & DEL from the database using Insomnia.
 
 ### Video Walkthrough
-
+https://drive.google.com/file/d/19st63tE5RjsF557v7ErqRxgO645mdwgL/view
 
 ## License
 Permission to use this application is granted under the MIT license.
