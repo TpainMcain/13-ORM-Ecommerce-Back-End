@@ -23,11 +23,12 @@
 6. Save the changes to the ```.env``` file.
 
 ## Usage Instructions
-* Make sure MySQL server is running on your machine.
+* Make sure MySQL server is running on your machine. Ensure Insomina is installed on your machine.
 *  Log in to MySQL ```mysql -u root -p``` and type ```source db/db.sql``` to create the database.
 *   Type ```quit``` to back out of MySQL.
 *   Type ```npm run seed``` to populate the database.
 *   Type ```npm start``` to start the server.
+*   Follow along with the video walkthrough to GET, POST, PUT, AND DEL from the DB using Insomnia.
 
 ### Video Walkthrough
 
