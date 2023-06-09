@@ -25,9 +25,10 @@
 ## Usage Instructions
 * Make sure MySQL server is running on your machine.
 *  Log in to MySQL ```mysql -u root -p``` and type ```source db/db.sql``` to create the database.
-*   Type ```quit``` to back out of MySQL
-*   Type ```npm run seed``` to populate the database
+*   Type ```quit``` to back out of MySQL.
+*   Type ```npm run seed``` to populate the database.
 *   Type ```npm start``` to start the server.
+
 ### Video Walkthrough
 
 
