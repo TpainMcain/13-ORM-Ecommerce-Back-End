@@ -24,7 +24,7 @@
 
 ## Usage Instructions
 * Make sure MySQL server is running on your machine. Ensure Insomina is installed on your machine.
-*  Log in to MySQL ```mysql -u root -p```, enter your password and type ```source db/db.sql``` to create the database.
+*  Log in to MySQL ```mysql -u root -p```, enter your password and type ```source db/schema.sql``` to create the database.
 *   Type ```quit``` to back out of MySQL.
 *   Type ```npm run seed``` to populate the database.
 *   Type ```npm start``` to start the server.
