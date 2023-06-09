@@ -21,11 +21,13 @@
 5. Open the ```.env``` file and provide the necessary values for the environment variables.
     * Note: The ```.env.example``` file serves as a template for the required environment variables. Replace the placeholder values with the actual values relevant to your MySQL.
 6. Save the changes to the ```.env``` file.
-7.
-
 
 ## Usage Instructions
-*
+* Make sure MySQL server is running on your machine.
+*  Log in to MySQL (mysql -u root -p) and run source db/db.sql to create the database.
+*   Type ```quit``` to back out of MySQL
+*   Type ```npm run seed``` to populate the database
+*   Type ```npm start``` to start the server.
 ### Video Walkthrough
 
 
