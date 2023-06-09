@@ -28,7 +28,7 @@
 *   Type ```quit``` to back out of MySQL.
 *   Type ```npm run seed``` to populate the database.
 *   Type ```npm start``` to start the server.
-*   Follow along with the video walkthrough to GET, POST, PUT, AND DEL from the DB using Insomnia.
+*   Follow along with the video walkthrough to GET, POST, PUT, AND DEL from the database using Insomnia.
 
 ### Video Walkthrough
 
