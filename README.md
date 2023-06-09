@@ -10,7 +10,7 @@
   - [Contact Me](#contact-me)
   
 ## Description
-
+This is a back-end application for an e-commerce website. It is designed to provide a robust and flexible back-end structure, allowing a hypothetical e-commerce company to compete with other firms in the industry effectively. The system is constructed using Node.js, powered by an Express.js API, and interacts with a MySQL database via Sequelize, an Object-Relational Mapping (ORM) tool.
 
 ## Installation Instructions
 1. Clone the repository to your local development environment.
